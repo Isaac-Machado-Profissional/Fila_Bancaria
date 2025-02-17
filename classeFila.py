@@ -1,6 +1,9 @@
 print("Bem vindo ao banco de Isaac Machado")
 
 class Fila:
+    """
+        Classe que representa uma fila e seus comandos de inserção, remoção, próximo e vazio..
+    """
     def __init__(self):
         self.data = []
 
@@ -22,6 +25,10 @@ fila_idosos = Fila()
 fila_normal = Fila()
 
 def atender_clientes():
+    """
+     Função que visa atender a cada dois clientes idosos, um cliente normal.
+    """
+
     count_idosos = 0
     while not fila_idosos.empty() or not fila_normal.empty():
         if count_idosos < 2 and not fila_idosos.empty():
