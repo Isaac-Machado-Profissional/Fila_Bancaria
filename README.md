@@ -1,6 +1,6 @@
 # Fila Bancária
 
-Este projeto impelementa um simples porém funcional script automatizado representando um sistema de filas ao chegar em um banco até ser atendido
+Este projeto implementa um script representando um sistema de filas ao chegar em um banco até ser atendido, utilizando Python.
 
 ## Instalação
   - __Requisitos:__
@@ -12,7 +12,7 @@ Este projeto impelementa um simples porém funcional script automatizado represe
 
     1. Clone o repositório
         ```bash
-          git clone 
+          git clone https://github.com/Isaac-Machado-Profissional/Fila_Bancaria
         ```
     2. Abra a pasta onde você clonou uma cópia deste repositório com o CMD:
 
