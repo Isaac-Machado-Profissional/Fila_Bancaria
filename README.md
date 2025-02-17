@@ -1,6 +1,6 @@
 # Fila Bancária
 
-Este projeto implementa um script representando um sistema de filas ao chegar em um banco até ser atendido, utilizando Python.
+Este projeto implementa um script, representando um sistema de filas ao chegar em um banco até ser atendido, utilizando Python.
 
 ## Instalação
   - __Requisitos:__
