@@ -5,8 +5,8 @@ Este projeto implementa um script, representando um sistema de filas ao chegar e
 ## Instalação
   - __Requisitos:__
 
-    - Python
-    - CMD ou alguma IDE
+    - [Python](https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=pt-br&gl=US)
+    - CMD
 
   - __Comandos:__
 
@@ -19,7 +19,7 @@ Este projeto implementa um script, representando um sistema de filas ao chegar e
         ```bash
           cd C:\(caminho_pasta_conteúdos_clonados)
         ```
-    3. Estando dentro da pasta correta, digite no CMD:
+    3. Estando dentro da pasta correta, digite no CMD para abrir e iniciar o script com Python:
 
         ```bash
           python classFila.py 
